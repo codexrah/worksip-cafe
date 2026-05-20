@@ -1,0 +1,8 @@
+{
+  "name": "WorkSip — Coworking Café",
+  "description": "A peaceful coworking café designed for focused work, good coffee, and creative collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
