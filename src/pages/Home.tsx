@@ -121,7 +121,7 @@ export default function Home() {
           <div className="text-center mb-20 space-y-4">
             <h2 className="font-serif text-5xl lg:text-6xl font-bold text-forest">Designed for your best work.</h2>
             <p className="text-xl opacity-60 max-w-2xl mx-auto font-light leading-relaxed">
-              We've obsessed over every acoustic and sensory detail to create an environment where you can truly find your flow.
+              We're obsessed over every acoustic and sensory detail to create an environment where you can truly find your flow.
             </p>
           </div>
 
